@@ -1,2 +1,2 @@
 # сodewars
-# [![CodeWars](https://www.codewars.com/users/Ryabchik3/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
+# [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
