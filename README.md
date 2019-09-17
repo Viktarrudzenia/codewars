@@ -1,2 +1,5 @@
-# сodewars
-# [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
+# Completed CodeWars Challenges
+
+#### I enjoy completing CodeWars challenges to improve my skills in JavaScript. These are solutions to my successfully completed katas sorted into folders by task difficulty.
+
+## My profile in codewars.com : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
